@@ -1,2 +1,3 @@
-# proec
-task SWW
+# SWW.GStats
+
+Заготовка тестового задания для платформы asp.net
